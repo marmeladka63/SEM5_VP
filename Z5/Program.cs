@@ -5,15 +5,30 @@ using System;
 Console.Clear();
 
 //int[] array= new int[100].Select(x=>new Random().Next(0,1000)).ToArray();
-int[] array= GetArray(123,0,1000);
+int[] array= GetArray(12,0,1000);
+
+Console.WriteLine(String.Join(" ", array));
+
+
 int sum=0;
-for (int i=0,i<123; i++ )
+
+for (int j=0; j<12; j++ )
 {
-if (array[i]>=10&&array[i]<=99 )
+if (array[j]>=10&&array[j]<=99 )
 {
     sum++;
 }
 }
 
 
- Console.WriteLine($"Сумма=  ,{sum}");
+ Console.WriteLine($"Сумма=  {sum}");
+
+ int[] GetArray(int size, int minValue, int maxValue)
+{
+    int[] res = new int[size];
+    for (int i = 0; i < size; i++)
+    {
+        res[i] = new Random().Next(minValue, maxValue + 1);
+    }
+    return res;
+}

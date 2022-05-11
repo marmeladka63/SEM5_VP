@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Valentina\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\учеба\\Введение в програмиирование\\SEM5_VP\\Z5\\Z5.csproj",
+      "projectUniqueName": "C:\\Users\\Valentina\\Documents\\Учеба Разработчик\\4_Введение в программирование Семинары\\SEM_5VP\\Z5\\Z5.csproj",
       "projectName": "Z5",
-      "projectPath": "C:\\Users\\User\\Documents\\учеба\\Введение в програмиирование\\SEM5_VP\\Z5\\Z5.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\учеба\\Введение в програмиирование\\SEM5_VP\\Z5\\obj\\",
+      "projectPath": "C:\\Users\\Valentina\\Documents\\Учеба Разработчик\\4_Введение в программирование Семинары\\SEM_5VP\\Z5\\Z5.csproj",
+      "packagesPath": "C:\\Users\\Valentina\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Valentina\\Documents\\Учеба Разработчик\\4_Введение в программирование Семинары\\SEM_5VP\\Z5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Valentina\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
