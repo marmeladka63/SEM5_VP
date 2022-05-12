@@ -1,0 +1,15 @@
+C:\Users\User\Documents\учеба\Введение в програмиирование\SEM_5VP\DZ33\bin\Debug\net6.0\DZ33.exe
+C:\Users\User\Documents\учеба\Введение в програмиирование\SEM_5VP\DZ33\bin\Debug\net6.0\DZ33.deps.json
+C:\Users\User\Documents\учеба\Введение в програмиирование\SEM_5VP\DZ33\bin\Debug\net6.0\DZ33.runtimeconfig.json
+C:\Users\User\Documents\учеба\Введение в програмиирование\SEM_5VP\DZ33\bin\Debug\net6.0\DZ33.dll
+C:\Users\User\Documents\учеба\Введение в програмиирование\SEM_5VP\DZ33\bin\Debug\net6.0\DZ33.pdb
+C:\Users\User\Documents\учеба\Введение в програмиирование\SEM_5VP\DZ33\obj\Debug\net6.0\DZ33.csproj.AssemblyReference.cache
+C:\Users\User\Documents\учеба\Введение в програмиирование\SEM_5VP\DZ33\obj\Debug\net6.0\DZ33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\учеба\Введение в програмиирование\SEM_5VP\DZ33\obj\Debug\net6.0\DZ33.AssemblyInfoInputs.cache
+C:\Users\User\Documents\учеба\Введение в програмиирование\SEM_5VP\DZ33\obj\Debug\net6.0\DZ33.AssemblyInfo.cs
+C:\Users\User\Documents\учеба\Введение в програмиирование\SEM_5VP\DZ33\obj\Debug\net6.0\DZ33.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\учеба\Введение в програмиирование\SEM_5VP\DZ33\obj\Debug\net6.0\DZ33.dll
+C:\Users\User\Documents\учеба\Введение в програмиирование\SEM_5VP\DZ33\obj\Debug\net6.0\refint\DZ33.dll
+C:\Users\User\Documents\учеба\Введение в програмиирование\SEM_5VP\DZ33\obj\Debug\net6.0\DZ33.pdb
+C:\Users\User\Documents\учеба\Введение в програмиирование\SEM_5VP\DZ33\obj\Debug\net6.0\DZ33.genruntimeconfig.cache
+C:\Users\User\Documents\учеба\Введение в програмиирование\SEM_5VP\DZ33\obj\Debug\net6.0\ref\DZ33.dll
